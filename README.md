@@ -1,4 +1,4 @@
 tutorial_yii
 ============
 
-Tutorial บทเรียน Yii Framework
+บทเรียนการพัฒนาเว็บแอพพลิเคชั่น ด้วย Yii PHP Framework
