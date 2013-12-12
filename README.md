@@ -7,8 +7,8 @@ tutorial_yii
 บทเรียนทั้งหมด
 1.	พื้นฐาน PHP OOP เพื่อความเข้าใจกระบวนการทำงานของ Yii Framework มากขึ้น
 2
-2.	ทำความเข้าใจกับแนวคิด MVC (Model-View-Controller) กันซะก่อน
-3.	PHP OOP และแนวคิด MVC เกี่ยวข้องกับ Yii Framework อย่างไร 
+2.	ทำความเข้าใจกับแนวคิด MVC (Model-View-Controller) กันซะก่อน<br>
+3.	PHP OOP และแนวคิด MVC เกี่ยวข้องกับ Yii Framework อย่างไร <br>
 4.	Yii Framework คืออะไร (The Fast, Secure and Professional PHP Framework)
 5.	เตรียมความพร้อมก่อนการติดตั้ง (เครื่องมือ ตั้งค่าระบบ) ที่สำคัญ ๆ ให้พร้อมกันก่อน
 6.	ดาวโหลดและติดตั้ง Yii Framework v.1.1.14 แบบละเอียดทุกขั้นตอน
